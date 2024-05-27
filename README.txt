@@ -1,3 +1,5 @@
+Optimization with the MITgcm on the UK National Supercomputer ARCHER2
+
 This follows up on Dani Jones's and Marin Losch's Makefile for the old Archer supercomputer.
 It works for optimization problems with the MITgcm on Archer2
 For example, this file was used to run a test case from the MITgcm global ocean optimization tutorial.
